@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Divyanshu Singh<br><br>
-🎓 AI & ML student at Parul University<br><br>
-💻 Currently learning Data Structures & Algorithms (DSA)<br><br>
-🌱 Exploring software development and modern technologies<br><br>
-🔨 Building projects to gain hands-on experience and improve my skills<br><br>
+👋 Hi, I'm Divyanshu Singh<br>
+🎓 AI & ML student at Parul University<br>
+💻 Currently learning Data Structures & Algorithms (DSA)<br>
+🌱 Exploring software development and modern technologies<br>
+🔨 Building projects to gain hands-on experience and improve my skills<br>
 🎯 Passionate about continuous learning and real-world problem solving
 
 
